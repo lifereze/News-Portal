@@ -1,1 +1,1 @@
-web: ./build/install/NewsPortal/bin/NewsPortal
+web: ./build/install/news-portal/bin/news-portal
