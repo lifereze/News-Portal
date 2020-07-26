@@ -6,7 +6,6 @@ import models.User;
 import org.junit.*;
 import org.sql2o.Connection;
 import org.sql2o.Sql2o;
-
 import java.sql.Timestamp;
 import java.util.Arrays;
 import java.util.Date;
