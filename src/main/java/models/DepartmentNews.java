@@ -1,5 +1,4 @@
 package models;
-
 import java.sql.Timestamp;
 import java.util.Objects;
 
