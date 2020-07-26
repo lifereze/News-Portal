@@ -10,8 +10,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.sql2o.Connection;
 import org.sql2o.Sql2o;
-import spark.ModelAndView;
-import spark.template.handlebars.HandlebarsTemplateEngine;
+
 
 import java.net.URI;
 import java.net.URISyntaxException;
