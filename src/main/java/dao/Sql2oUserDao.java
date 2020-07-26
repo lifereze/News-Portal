@@ -1,7 +1,5 @@
 package dao;
-
 import models.User;
-import org.eclipse.jetty.client.ConnectionPool;
 import org.sql2o.Connection;
 import org.sql2o.Sql2o;
 
