@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dao.Sql2oUserDaoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-07-26T15:09:27" hostname="lifereze-thinkpad-t450" time="0.313">
+  <properties/>
+  <testcase name="getAllUsers_ReturnsAllUsers_True" classname="dao.Sql2oUserDaoTest" time="0.064"/>
+  <testcase name="addUser_AddsUserSetsId_True" classname="dao.Sql2oUserDaoTest" time="0.056"/>
+  <testcase name="clearAllUsers_clearsAllUsers_True" classname="dao.Sql2oUserDaoTest" time="0.064"/>
+  <testcase name="findUserById_ReturnsCorrectUser_True" classname="dao.Sql2oUserDaoTest" time="0.058"/>
+  <testcase name="updateUser_UpdatesUserNamePositionRoleDepartmentId_True" classname="dao.Sql2oUserDaoTest" time="0.069"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

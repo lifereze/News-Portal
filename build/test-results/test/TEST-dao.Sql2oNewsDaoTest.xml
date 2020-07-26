@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dao.Sql2oNewsDaoTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-07-26T15:09:26" hostname="lifereze-thinkpad-t450" time="1.124">
+  <properties/>
+  <testcase name="addDepartmentNews_AddsDepartmentNewsSetsId" classname="dao.Sql2oNewsDaoTest" time="0.066"/>
+  <testcase name="getAllNews_ReturnsAllNews_True" classname="dao.Sql2oNewsDaoTest" time="0.116"/>
+  <testcase name="updateDepartmentNews_updatesUserIdContentDepartmentId_True" classname="dao.Sql2oNewsDaoTest" time="0.068"/>
+  <testcase name="updateGeneralNews_updatesUserIdContent_True" classname="dao.Sql2oNewsDaoTest" time="0.069"/>
+  <testcase name="addGeneralNews_AddsGeneralNewsSetsId" classname="dao.Sql2oNewsDaoTest" time="0.072"/>
+  <testcase name="findGeneralNewsById_findsCorrectGeneralNews_True" classname="dao.Sql2oNewsDaoTest" time="0.095"/>
+  <testcase name="clearGeneralNews_clearsGeneralNewsOnly_True" classname="dao.Sql2oNewsDaoTest" time="0.114"/>
+  <testcase name="getGeneralNews_ReturnsGeneralNews_True" classname="dao.Sql2oNewsDaoTest" time="0.096"/>
+  <testcase name="findDepartmentNewsById_findsCorrectDepartmentNews_True" classname="dao.Sql2oNewsDaoTest" time="0.096"/>
+  <testcase name="clearAllNews_clearsAllNews_True" classname="dao.Sql2oNewsDaoTest" time="0.107"/>
+  <testcase name="clearDepartmentNews_clearsDepartmentNewsOnly_True" classname="dao.Sql2oNewsDaoTest" time="0.122"/>
+  <testcase name="getDepartmentNews_ReturnsDepartmentNews_True" classname="dao.Sql2oNewsDaoTest" time="0.098"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
