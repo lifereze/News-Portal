@@ -3,8 +3,10 @@ package models;
 import java.util.Objects;
 
 public class Department {
+
     //id, name, description,
     // getNumberOfEmployees : count from users table where id matched the department id. put in dao
+
     private int id;
     private String name;
     private String description;

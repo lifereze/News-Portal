@@ -4,7 +4,9 @@ import java.sql.Timestamp;
 import java.util.Objects;
 
 public class News {
+
     //id, userID, type, content, postdate
+
     private int id;
     private int userid;
     private String type;
