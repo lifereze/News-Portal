@@ -14,7 +14,6 @@ import org.sql2o.Sql2o;
 
 import java.net.URI;
 import java.net.URISyntaxException;
-
 import static spark.Spark.*;
 
 public class App {
