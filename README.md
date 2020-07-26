@@ -96,3 +96,7 @@ Fork the project on github [News-Portal](https://github.com/lifereze/News-Portal
 * Pull requests are encouraged.
 * License
 * This project is licensed under the MIT Open Source license.
+
+# License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
